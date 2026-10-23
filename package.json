@@ -1,0 +1,12 @@
+{
+  "name": "@c0dingbear/access-prompt",
+  "version": "0.1.0",
+  "description": "Tiny dependency-free cross-platform native access-request dialog (allow / allow-for-session / deny / no-response). Linux kdialog→zenity, macOS osascript, Windows PowerShell.",
+  "main": "index.js",
+  "type": "commonjs",
+  "files": ["index.js", "README.md", "LICENSE"],
+  "engines": { "node": ">=16" },
+  "keywords": ["dialog", "prompt", "zenity", "kdialog", "osascript", "powershell", "cross-platform", "native", "consent", "authorization"],
+  "license": "MIT",
+  "author": "c0dingbear"
+}
